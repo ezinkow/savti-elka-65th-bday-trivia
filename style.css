@@ -1,4 +1,18 @@
+.hide {
+    display: none;
+}
 
+.introBtn{
+    background-color: red;
+    padding: 30px;
+    text-align: center;
+    color: white;
+    border-radius: 30px;
+    width: 500px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
 
 .jumbotron{
 background: url(imma-jumbotron.jpg) no-repeat;
@@ -17,4 +31,20 @@ padding-top: 120px;
     text-shadow: 5px 5px 5px yellow;
     color: purple;
     margin: auto;
+}
+
+
+.currentQuestion{
+    font-size: 30px;
+    text-align: center;
+}
+
+#nextBtn{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 500px;
+    height: 100px;
+    font-size: 50px;
+    border-radius: 30px;
 }

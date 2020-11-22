@@ -1,9 +1,16 @@
 $(document).ready(function(){
 
 var currentQuestionIndex = -1
+var introButton = document.querySelector(".introBtn")
 
+$(".introBtn").on("click",function(){
+    $("#nextBtn").removeClass("hide")
+    console.log("hello")
+    currentQuestionIndex = currentQuestionIndex + 1
+    $(".currentQuestion").html(questions[currentQuestionIndex])
+})
 
-$(".nextBtn").on("click",function() {
+$("#nextBtn").on("click",function() {
     currentQuestionIndex = currentQuestionIndex + 1
     $(".currentQuestion").html(questions[currentQuestionIndex])
 })
@@ -17,10 +24,6 @@ var questions = [
 
 
 ]
-
-
-
-console.log(questions[2])
 
 
 
