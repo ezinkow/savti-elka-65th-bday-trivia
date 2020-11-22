@@ -40,11 +40,12 @@ padding-top: 120px;
 }
 
 #nextBtn{
-    display: block;
+    display:block;
     margin-left: auto;
     margin-right: auto;
     width: 500px;
     height: 100px;
     font-size: 50px;
     border-radius: 30px;
+    text-align: center;
 }
