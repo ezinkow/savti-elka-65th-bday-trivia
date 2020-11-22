@@ -1,0 +1,20 @@
+
+
+.jumbotron{
+background: url(imma-jumbotron.jpg) no-repeat;
+background-size: cover;
+background-position: top;
+text-align: center;
+height: 400px;
+padding-top: 120px;
+}
+
+.hero-text{
+    background: rgba(76, 175, 80, 0.3);
+    border-radius: 30px;
+    font-weight: 900 !important;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-shadow: 5px 5px 5px yellow;
+    color: purple;
+    margin: auto;
+}
