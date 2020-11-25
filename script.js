@@ -5,16 +5,21 @@ var introButton = document.querySelector(".introBtn")
 
 $(".introBtn").on("click",function(){
     $(".btnDiv").removeClass("hide")
+    $(".btnDivIntro").addClass("hide")
     console.log("hello")
     currentQuestionIndex = currentQuestionIndex + 1
     $(".currentQuestion").html(questions[currentQuestionIndex])
 })
 
-$("#nextBtn").on("click",function() {
+$(".nextBtn").on("click",function() {
     currentQuestionIndex = currentQuestionIndex + 1
     $(".currentQuestion").html(questions[currentQuestionIndex])
 })
 
+$(".backBtn").on("click",function() {
+    currentQuestionIndex = currentQuestionIndex - 1
+    $(".currentQuestion").html(questions[currentQuestionIndex])
+})
 
 var questions = [
     'this is question 1',
