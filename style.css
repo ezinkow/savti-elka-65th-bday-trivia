@@ -12,7 +12,28 @@
     font-size: 50px;
 }
 
-.leftGif{
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+/* .leftGif{
+    max-width: 10000px;
+    margin: 30px auto;
+    display: block;
+  float: left;
+  width: 23%;
+  height: 200px;
+  margin: 1%;
+  cursor: pointer;
+  object-fit: cover;
+  border-radius: px;
+  content: " ";
+  display: block;
+  clear: both;
+} */
+/* .leftGif{
     float:left;
 }
 
@@ -22,7 +43,7 @@
 
 .centerGif{
     display:flex;
-}
+} */
 
 .nextBtn{
     padding: 30px;
@@ -44,11 +65,10 @@
     margin-left: auto;
     margin-right: auto;
     font-size: 50px;
-    margin-bottom: 300px;
 }
 
 .jumbotron{
-    background: url(imma-jumbotron.jpg) no-repeat;
+    background: url(images/imma-jumbotron.jpg) no-repeat;
     background-size: cover;
     background-position: top;
     text-align: center;
@@ -84,3 +104,28 @@
     text-align: center;
 }
 
+.img-container {
+    max-width: 1000px;
+    margin: 5px auto;
+  }
+  
+  .img-container::after {
+    content: " ";
+    display: block;
+    clear: both;
+  }
+  
+  img {
+    /* display: block; */
+    float: left;
+    width: 23%;
+    height: 200px;
+    margin: 1%;
+    cursor: pointer;
+    /* object-fit: cover; */
+    border-radius: 8px;
+  }
+
+  .column{
+      width: 200px;
+  }
