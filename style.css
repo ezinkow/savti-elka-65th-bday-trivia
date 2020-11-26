@@ -116,9 +116,9 @@
   }
   
   img {
-    /* display: block; */
+    display: flex;
     float: left;
-    width: 23%;
+    width: 200px;
     height: 200px;
     margin: 1%;
     cursor: pointer;
@@ -126,6 +126,8 @@
     border-radius: 8px;
   }
 
-  .column{
-      width: 100px;
+  .no-gutters {
+    margin-right: 0;
+    margin-left: 0;
   }
+  
