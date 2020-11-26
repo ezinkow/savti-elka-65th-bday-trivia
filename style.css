@@ -10,6 +10,7 @@
     border-radius: 30px;
     width: 600px;
     font-size: 50px;
+    height: auto;
 }
 
 *,
@@ -17,33 +18,6 @@
 *::after {
   box-sizing: border-box;
 }
-
-/* .leftGif{
-    max-width: 10000px;
-    margin: 30px auto;
-    display: block;
-  float: left;
-  width: 23%;
-  height: 200px;
-  margin: 1%;
-  cursor: pointer;
-  object-fit: cover;
-  border-radius: px;
-  content: " ";
-  display: block;
-  clear: both;
-} */
-/* .leftGif{
-    float:left;
-}
-
-.rightGif{
-    float:right;
-}
-
-.centerGif{
-    display:flex;
-} */
 
 .nextBtn{
     padding: 30px;
@@ -79,10 +53,10 @@
 .hero-text{
     background: rgba(0,0,0, .6);
     border-radius: 30px;
-    font-weight: 900 !important;
+    font-weight: 900;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-    text-shadow: 5px 5px 5px yellow;
-    color: purple;
+    text-shadow: 5px 5px 5px purple;
+    color: yellow;
     margin: auto;
     margin-top: -100px;
 }
@@ -92,8 +66,8 @@
     border-radius: 30px;
     font-weight: 900 !important;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-    text-shadow: 5px 5px 5px yellow;
-    color: purple;
+    text-shadow: 5px 5px 5px purple;
+    color: yellow;
     margin: auto;
     margin-top: 230px;
 }
@@ -105,29 +79,21 @@
 }
 
 .img-container {
-    max-width: 1000px;
     margin: 5px auto;
   }
-  
-  .img-container::after {
-    content: " ";
-    display: block;
-    clear: both;
-  }
-  
+
   img {
-    display: flex;
-    float: left;
     width: 200px;
     height: 200px;
     margin: 1%;
     cursor: pointer;
-    /* object-fit: cover; */
-    border-radius: 8px;
+    border-radius: 5px;
   }
 
-  .no-gutters {
-    margin-right: 0;
-    margin-left: 0;
+  .center{
+      margin-left: 25px;
   }
-  
+
+  .column{
+      margin-bottom: 15px;
+  }
