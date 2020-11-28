@@ -55,7 +55,7 @@ var questions = [
     'Question 5:<br>Always a leader Elka served on the student council. Name the prestigious position she was elected to.',
     'Question 6:<br>In 1973 Elka was crowned Queen of which event?',
   //Rabbi Peter Rubinstein
-    'Question 7:<br>A video question from someone with Bay Area and New York connections.<br><iframe width="560" height="315" src="https://www.youtube.com/embed/F7QsqfdJ-o8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
+    'Question 7:<br>A video question from someone who was ranked number 3 in Newsweek’s 2012 list of “America’s 50 Most Influential Rabbis”.<br><iframe width="560" height="315" src="https://www.youtube.com/embed/F7QsqfdJ-o8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
     "Question 7:<br>When we were on the pulpit together in San Mateo, I said something that caused Elka to break out in loud laughter.  What was the context, what did I say, and how did she memorialize it?",
   //Rubenstein answer
     'Question 7 Answer: <br><iframe width="560" height="315" src="https://www.youtube.com/embed/-tBs38-FhbM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
