@@ -78,7 +78,7 @@ var questions = [
   //Stefanie Zelkind
     "Question 11:<br>In Elka's eyes, which is her greatest professional accomplishment?",
   //Andy Halper
-    "Question 12: Out to Minneapolis and an old Hertzl friend....",
+    "Question 12: Out to Minneapolis and an old Herzl friend....",
     "Question 12:<br>",
   //Rabbi Judy Shanks
     "Question 13:<br>In 1993, Elka and I co-chaired a national Jewish event in the Bay Area.  What was it?<br>A) Coalition for Jewish Education’s Annual Conference<br>B) UAHC (now URJ) Rabbis for Union Summer Camps<br>C) Women’s Rabbinic Network Biennial Conference<br>D) How to Create a Day Care Center at Your Synagogue?<br>Extra credit:  What was the name of the hotel that housed the event?",
