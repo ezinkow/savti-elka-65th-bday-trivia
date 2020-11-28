@@ -46,16 +46,16 @@ var questions = [
   //Mack answer
     'Question 1 Answer:<br><iframe width="560" height="315" src="https://www.youtube.com/embed/RxCCH7mtlSQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
   //Cindy Chazan
-    'Question 2:<br>We go to our 1st live questionner......',
+    'Question 2:<br>We go to our 1st live questionner....',
     'Question 2:<br>Why was Elka so excited when she heard that Jane Wilf would be a Wexner Heritage member?',
   //Peter Kenefick
     'Question 3:<br>Another live guest...',
-    'Question 3:<br>:',
+    'Question 3:<br>',
   //Rabbi Peter Rubinstein
     'Question 4:<br>Video question!: <br><iframe width="560" height="315" src="https://www.youtube.com/embed/F7QsqfdJ-o8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
     "Question 4:<br>When we were on the pulpit together in San Mateo, I said something that caused Elka to break out in loud laughter.  What was the context, what did I say, and how did she memorialize it?",
   //Rubenstein answer
-    'Answer: <br><iframe width="560" height="315" src="https://www.youtube.com/embed/-tBs38-FhbM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
+    'Question 4 Answer: <br><iframe width="560" height="315" src="https://www.youtube.com/embed/-tBs38-FhbM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
   //Deborah Lipstadt
     "Questions 5 and 6 go to....",
     "Question 5:<br>What was revealingly flapping in the wind on Michigan Avenue erev Elan and Orly's wedding?",
@@ -76,18 +76,25 @@ var questions = [
     "Question 10: Now a Wexner Fellow with a Chicago connection....",
     "Question 10:<br>",
   //Stefanie Zelkind
+    "Question 11:<br>",
     "Question 11:<br>In Elka's eyes, which is her greatest professional accomplishment?",
   //Andy Halper
     "Question 12: Out to Minneapolis and an old Herzl friend....",
     "Question 12:<br>",
   //Rabbi Judy Shanks
+    "Question 13: Back out west to the bay area.....",
     "Question 13:<br>In 1993, Elka and I co-chaired a national Jewish event in the Bay Area.  What was it?<br>A) Coalition for Jewish Education’s Annual Conference<br>B) UAHC (now URJ) Rabbis for Union Summer Camps<br>C) Women’s Rabbinic Network Biennial Conference<br>D) How to Create a Day Care Center at Your Synagogue?<br>Extra credit:  What was the name of the hotel that housed the event?",
   //Margie
+    "Question 14:",
     "Question 14:<br>",
   //Steve and Ruth
-  "Question 15:<br>How old was Elka when she first met Steven and for a bonus, what was the date?",
+    "Question 15:",
+    "Question 15:<br>How old was Elka when she first met Steven and for a bonus, what was the date?",
   //Bonnie
-  "Question 16:<br>",
+    "Question 16:<br>",
+  //Game end
+    "GAME OVER<br><br>That's the end of the game!<br>Let's tally up the scores!",
+    
 
 ]
 
