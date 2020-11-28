@@ -49,13 +49,14 @@ var questions = [
     'Question 2:<br>We go to our 1st live questionner and the 1st Wexner connection....',
     'Question 2:<br>Why was Elka so excited when she heard that Jane Wilf would be a Wexner Heritage member?',
   //Peter Kenefick
-    "Questions 3 through 6:<br>Someone from way back in the day, who's family owns a vineyward in Napa Valley....",
+    "Questions 3 through 6:<br>Someone from way back in the day, his family owns a vineyard in Napa Valley....",
     'Question 3:<br>As a senior in high school which group did Elka belong to?',
     'Question 4:<br>What is her famous quote pertaining to that group?',
     'Question 5:<br>Always a leader Elka served on the student council. Name the prestigious position she was elected to.',
     'Question 6:<br>In 1973 Elka was crowned Queen of which event?',
   //Rabbi Peter Rubinstein
-    'Question 7:<br>A video question from someone who was ranked number 3 in Newsweek’s 2012 list of “America’s 50 Most Influential Rabbis”.<br><iframe width="560" height="315" src="https://www.youtube.com/embed/F7QsqfdJ-o8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
+    'Question 7:<br>A video question from someone who was ranked number 3 in Newsweek’s 2012 list of “America’s 50 Most Influential Rabbis”',
+    'Question 7:<br><iframe width="560" height="315" src="https://www.youtube.com/embed/F7QsqfdJ-o8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
     "Question 7:<br>When we were on the pulpit together in San Mateo, I said something that caused Elka to break out in loud laughter.  What was the context, what did I say, and how did she memorialize it?",
   //Rubenstein answer
     'Question 7 Answer: <br><iframe width="560" height="315" src="https://www.youtube.com/embed/-tBs38-FhbM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
@@ -67,7 +68,8 @@ var questions = [
     "Question 10: Let's go out west to hear from a former member of the San Francisco Mime Troupe....",
     "Question 10:<br>Until she was an adult, Barbara and later Elka thought that her Aunt Sally's husband was:<br>1) In the  witness protection program<br>2) Extremely agoraphobic<br>3) Non existent, she had never married<br>4) Dead",
   //Ezra Korman
-    'Question 11: A Video from Israel, and Misha`s boss....<br><iframe width="560" height="315" src="https://www.youtube.com/embed/My5Gwx6lBTY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
+    'Question 11: A Video from Israel, and Misha`s boss....',
+    'Question 11:<br><iframe width="560" height="315" src="https://www.youtube.com/embed/My5Gwx6lBTY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
     //korman text
     "Question 11:<br>When attending the General Assembly of the Jewish Federations of North America, what is Elka’s favorite thing to do?<br>A) give a talk on women in leadership and the importance of presenting diversity in all JFNA programming<br>B) host a reception for Wexner alumni and friends in the Wexner suite<br>C) attend the reception and shoo away people who have come for the free food or to solicit money from the Foundation<br>D) sit in a side-room of the Wexner suite during the reception and watch a Vikings game on TV",
   //Korman answer
@@ -97,8 +99,10 @@ var questions = [
     "Question 18: Staying in St. Paul and heading to Mendota Heights....",
     "Question 18:<br>How old was Elka when she first met Steven and for a bonus, what was the date?",
   //Bonnie
-    "Question 19: And finally, back to 2221 Youngman to hear from the President and CEO of Bubbes for Biden...",
-    "Question 19:<br>",
+    "Questions 19 through 21: And finally, back to 2221 Youngman to hear from the President and CEO of Bubbes for Biden...",
+    "Question 19:<br>As a child, what what was the name brand of her favorite style shoes?",
+    "Question 20:<br>What lunch did she eat for many months?",
+    "Question 21:<br>What TV show did Margie and she watch during lunchtime?",
   //Game end
     "GAME OVER<br><br>That's the end of the game!<br>Let's tally up the scores!",
     
