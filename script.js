@@ -63,7 +63,7 @@ var questions = [
   //Deborah Lipstadt
     "Questions 8 and 9:<br> We go to someone once played by Rachel Weisz....",
     "Question 8:<br>What was revealingly flapping in the wind on Michigan Avenue erev Elan and Orly's wedding?",
-    "Question 9:<br>Most people would give their anything to be invited there, especially if it involves spending time one on one with the 'man.'  Deborah and Elka are probably the only ones who sometimes feel otherwise.  Where is it?",
+    "Question 9:<br>Others may give their all for this privilege, but you and I sometimes moan and groan about it.<br>(Warning: you may not want to answer this one aloud.)",
   //Barry Levitan
     "Question 10:<br>Let's go out west to hear from a former member of the San Francisco Mime Troupe....",
     "Question 10:<br>Until she was an adult, Barbara and later Elka thought that her Aunt Sally's husband was:<br>1) In the  witness protection program<br>2) Extremely agoraphobic<br>3) Non existent, she had never married<br>4) Dead",
@@ -79,7 +79,7 @@ var questions = [
     "Question 12:<br>What did Elka say in response to a male friend who referred to a current social movement as 'Black Lives Matters'?<br>A) Thank G-d Maya didn't hear this!<br>B) She burst out laughing<br>C) She compassionately and gently referred to the correct version of the movement to not embarrass him<br>D) Nothing, she listened as her friend corrected him with a strong hint of judgement",
   //Rabbi Elie Kaunfer
     "Question 13:<br>Now a Wexner Fellow who's been named Newsweek’s list of the top 50 rabbis in America multiple times....",
-    "Question 13:<br>",
+    "Question 13:<br>While serving as vice-president of the Wexner Foundation, Elka was recruited for which of the following jobs?<br>A) head of the Reform Movement<br>B) Head of the Conservative Movement<br>C) White House liaison to the Jewish people<br>D) All of the above<br>E) A and B",
   //Stefanie Zelkind
     "Question 14:<br>Another Wexner connection, Director of The Wexner Graduate Fellowship/Davidson Scholars program....",
     "Question 14:<br>In Elka's eyes, which is her greatest professional accomplishment?",
