@@ -66,7 +66,7 @@ var questions = [
     "Question 9:<br>Others may give their all for this privilege, but you and I sometimes moan and groan about it.<br>(Warning: you may not want to answer this one aloud.)",
   //Barry Levitan
     "Question 10:<br>Let's go out west to hear from a former member of the San Francisco Mime Troupe....",
-    "Question 10:<br>Until she was an adult, Barbara and later Elka thought that her Aunt Sally's husband was:<br>1) In the  witness protection program<br>2) Extremely agoraphobic<br>3) Non existent, she had never married<br>4) Dead",
+    "Question 10:<br>Until she was an adult, Barbara and later Elka thought that her Aunt Sally's husband was:<br>A) In the  witness protection program<br>B) Extremely agoraphobic<br>C) Non existent, she had never married<br>D) Dead",
   //Ezra Korman
     'Question 11:<br>A Video from Israel, and Misha`s boss....',
     'Question 11:<br><iframe width="560" height="315" src="https://www.youtube.com/embed/My5Gwx6lBTY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
@@ -86,7 +86,7 @@ var questions = [
   //Andy Halper
     "Question 15:<br>Out to Minneapolis and an old Herzl friend....",
     'Question 15:<br><iframe width="560" height="315" src="https://www.youtube.com/embed/uRvhUvaJicw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
-    "Question 15:<br>What did the entire camp cheer out and sing whenever Elka made an announcement?<br>1) RebElka<br>2) Schemka<br>3) el-el-el-Elka, el-el-el-Elka...",
+    "Question 15:<br>What did the entire camp cheer out and sing whenever Elka made an announcement?<br>A) RebElka<br>B) Schemka<br>C) el-el-el-Elka, el-el-el-Elka...",
     //Halper answer
     'Question 15 answer:<br><iframe width="560" height="315" src="https://www.youtube.com/embed/7ZbfStE8m4I" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
   //Rabbi Judy Shanks
